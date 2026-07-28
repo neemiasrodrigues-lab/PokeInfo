@@ -1,2 +1,1 @@
-# PokeInfo
-A pokedex websites where you search a pokemon and see your stats
+Esse projeto esta sendo refeito, favor releve os bugs ou falta de funcionalidades.
