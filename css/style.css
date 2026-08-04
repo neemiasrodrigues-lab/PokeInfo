@@ -29,5 +29,5 @@ main {
 .jogos {
     display: flex;
     justify-content: center;
-    gap: 12px;
+    gap: 11px;
 }
