@@ -1,9 +1,9 @@
 body {
-    background-image: url(/Content/black-and-white-1920x1080-21293-1984047221.jpg);
+    background-image: url(../Content/black-and-white-1920x1080-21293-1984047221.jpg);
     background-size: cover;
     background-position: center;
     min-height: 100vh;
-    min-width: 100vh;
+    min-width: 100vw;
 }
 header {
     color: aliceblue;
@@ -29,5 +29,5 @@ main {
 .jogos {
     display: flex;
     justify-content: center;
-    gap: 11px;
+    gap: 12px;
 }
